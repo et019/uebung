@@ -1,0 +1,7 @@
+from,to,weight,duration,relationship
+Eva,Niklas,4,3,"9,7"
+Eva,Monika,3,3,1
+Eva,Heribert,3,3,1
+Eva,Anna,2,3,10
+Monika,Heribert,4,3,"9,7"
+Heribert,Monika,4,3,"9,7"
